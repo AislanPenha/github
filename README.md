@@ -17,7 +17,7 @@ git remote add nomeDoRepositorio endereço
 ```
 git checkout -a
 ```
-### Criar um entra/novo branch
+### Entrar na branch e criar nova branch
 ```
 git branch -M master
 git checkout -b nova
