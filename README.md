@@ -59,4 +59,14 @@ ou usar
 git reset --hard HEAD~1
 ```
 > HEAD~6: Retornará antes da ultimas 6 alterações
+## Fazendo um pull
+```
+git init
+git remote add nomeDoRepsoitorio endereco
+git pull nomeDoRepsoitorio
+```
+## Fazendo um clone
+```
+git clone endereco
+```
 ### Texto produzido por: [Aislan Penha](https://github.com/AislanPenha)
