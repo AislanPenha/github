@@ -19,7 +19,7 @@ git checkout -a
 ```
 ### Criar um novo branch
 ```
-git checkout -M nova
+git checkout -b nova
 ```
 ### Escolher um branch, que esteja criado
 ```
