@@ -12,6 +12,27 @@ git remote add nomeDoRepositorio endereço
 
 ```
 >Pode adicionar qualquer nome no **nomeDoRepositorio**, este será o nome que associará com o endereço.
+
+## Listar os repositórios remotos:
+```
+git remote -v
+
+```
+## Remover um repositório remoto:
+```
+git remote remove origin
+
+```
+## Alterar a URL de um repositório remoto:
+```
+git remote set-url origin NOVA_URL
+
+```
+## Alterar o apelido de um repositório remoto:
+```
+git remote rename origin novo-origin
+
+```
 ## Configurar o branch
 ### Visualizar todos os branchs
 ```
