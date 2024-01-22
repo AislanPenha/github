@@ -95,6 +95,9 @@ git clone endereco
 ```
 git log
 ```
+> parâmetro -p: log mais detalhado
+> 
+> parâmetro --oneline: log mais resumido
 ## Desfaz um commit 
 ```
 git reverse COMMIT_LOG
