@@ -99,4 +99,9 @@ git log
 ```
 git reverse COMMIT_LOG
 ```
+## Apagar um commit local, que não queira fazer o push
+```
+git reset --hard COMMIT_LOG_ANTERIOR
+```
+> O número do commit tem que ser alterior ao que deseja apagar
 ### Texto produzido por: [Aislan Penha](https://github.com/AislanPenha)
