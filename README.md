@@ -104,4 +104,8 @@ git reverse COMMIT_LOG
 git reset --hard COMMIT_LOG_ANTERIOR
 ```
 > O número do commit tem que ser alterior ao que deseja apagar
+## Alterando o último commit
+```
+git comit --amend -m "Nova mensagem"
+```
 ### Texto produzido por: [Aislan Penha](https://github.com/AislanPenha)
