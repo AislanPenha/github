@@ -91,4 +91,12 @@ git pull nomeDoRepsoitorio
 ```
 git clone endereco
 ```
+## Exibe todos os registros
+```
+git log
+```
+## Desfaz um commit 
+```
+git reverse COMMIT_LOG
+```
 ### Texto produzido por: [Aislan Penha](https://github.com/AislanPenha)
